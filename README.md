@@ -14,7 +14,7 @@ Designed to showcase creativity, projects, and personal branding with a modern a
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="AnniePortfolio/assets/images/desktop.png" alt="Annie Portfolio Desktop View" width="100%" />
+<img src="Annie%20Portfolio/assets/images/desktop.png" alt="Annie Portfolio Desktop View" width="100%" />
 
 The **Annie Portfolio** is a stylish and minimalist personal portfolio website concept crafted for creatives, designers, and developers.  
 It focuses on clarity, visual balance, and smooth interactions to present work and personal information in a professional manner.
