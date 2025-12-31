@@ -1,12 +1,7 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Annie Portfolio Logo" width="120" />
-
-<br /><br />
 
 ## 👩‍🎨 Annie – Personal Portfolio  
 A clean, elegant, and fully responsive **Personal Portfolio Website UI** built using HTML, CSS, and JavaScript.  
