@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Annie%20Portfolio/assets/images/desktop.png" alt="Annie Portfolio Logo" width="120"/>
+<img src="Annie%20Portfolio/assets/images/logo.svg" alt="Annie Portfolio Logo" width="120"/>
 
 <br />
 <br />
